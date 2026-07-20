@@ -1,6 +1,6 @@
 # AIMLLabSem7
 
-# 🧠 Deep Learning Lab (AIML) – Semester VII
+# Deep Learning Lab (AIML) – Semester VII
 
 ## Student Information
 
